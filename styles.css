@@ -47,4 +47,6 @@ div.iconoPUNTOS {
 
 div.iconoTXT {
     font-size: xx-small;
+    display: flex;
+    flex-direction: column;
 }
